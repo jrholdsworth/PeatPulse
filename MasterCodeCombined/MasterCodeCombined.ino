@@ -1,5 +1,5 @@
 //******************************//
-//  Peat Bog Slave Code  //
+//  Peat Bog Master Code  //
 //  Contributed by
 //  James Holdsworth
 //******************************///
